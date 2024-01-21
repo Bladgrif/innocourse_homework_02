@@ -1,7 +1,5 @@
 package ru.inno.course.tasks.task_2;
 
-import ru.inno.course.tasks.task_3.Room;
-
 
 public class Task2 {
 

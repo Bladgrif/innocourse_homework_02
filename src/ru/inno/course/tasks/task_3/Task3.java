@@ -1,7 +1,5 @@
 package ru.inno.course.tasks.task_3;
 
-import ru.inno.course.tasks.task_2.Item;
-
 import java.util.ArrayList;
 
 public class Task3 {

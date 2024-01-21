@@ -1,4 +1,4 @@
-package ru.inno.course.tasks.task_3;
+package ru.inno.course.tasks.task_2;
 
 public class Room {
     public String theNameOfTheRoom;
