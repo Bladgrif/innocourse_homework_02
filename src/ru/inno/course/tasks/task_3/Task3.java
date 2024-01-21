@@ -1,10 +1,8 @@
-package ru.inno.course.tasks;
+package ru.inno.course.tasks.task_3;
 
-import ru.inno.course.Item;
+import ru.inno.course.tasks.task_2.Item;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
-import java.util.List;
 
 public class Task3 {
 

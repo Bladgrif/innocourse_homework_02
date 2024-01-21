@@ -1,4 +1,4 @@
-package ru.inno.course;
+package ru.inno.course.tasks.task_2;
 
 public class Item {
     public String articleNumber,

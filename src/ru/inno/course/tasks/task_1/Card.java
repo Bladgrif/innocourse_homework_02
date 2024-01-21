@@ -1,4 +1,4 @@
-package ru.inno.course;
+package ru.inno.course.tasks.task_1;
 
 public class Card {
 
